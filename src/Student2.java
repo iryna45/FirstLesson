@@ -12,7 +12,7 @@ public class Student2 {
 
             for (int A = pul.size(); A >= 0; A--) {
                 System.out.println();
-
+                System.out.println();
                 System.out.println();
             }
 
